@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:day2/homepage.dart';
-import 'package:day2/post.dart';
+import 'package:day1/homepage.dart';
+import 'package:day1/post.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 

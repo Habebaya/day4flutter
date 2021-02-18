@@ -1,6 +1,6 @@
-import 'package:day2/RegisterStackWid.dart';
-import 'package:day2/main.dart';
-import 'package:day2/myclipper.dart';
+import 'package:day1/RegisterStackWid.dart';
+import 'package:day1/main.dart';
+import 'package:day1/myclipper.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
